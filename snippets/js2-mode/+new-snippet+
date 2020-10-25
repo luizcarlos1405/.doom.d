@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Log With Title
+# key: logwt
+# --
+console.log(\`$1\`, $2);
